@@ -8,10 +8,8 @@ const header = (props) => {
 					<a> THE PLANT WAREHOUSE </a>
 				</span>
 				<span className="menu">
-					<a className="menu-items"> Our Range </a>
-					<a className="menu-items">	Locations </a>
+					<a className="menu-items"> Home </a>
 					<a className="menu-items"> Workshops </a>
-					<a className="menu-items"> Plant Care </a>
 					<a className="menu-items"> Blog </a>
 				</span>
 			</div>
